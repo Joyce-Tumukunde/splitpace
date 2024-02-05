@@ -5,12 +5,7 @@ import House3 from './assets/img/houses/house3.png';
 import House4 from './assets/img/houses/house4.png';
 import House5 from './assets/img/houses/house5.png';
 import House6 from './assets/img/houses/house6.png';
-import House7 from './assets/img/houses/house7.png';
-import House8 from './assets/img/houses/house8.png';
-import House9 from './assets/img/houses/house9.png';
-import House10 from './assets/img/houses/house10.png';
-import House11 from './assets/img/houses/house11.png';
-import House12 from './assets/img/houses/house12.png';
+
 // import house large images
 import House1Lg from './assets/img/houses/house1lg.png';
 import House2Lg from './assets/img/houses/house2lg.png';
@@ -18,12 +13,7 @@ import House3Lg from './assets/img/houses/house3lg.png';
 import House4Lg from './assets/img/houses/house4lg.png';
 import House5Lg from './assets/img/houses/house5lg.png';
 import House6Lg from './assets/img/houses/house6lg.png';
-import House7Lg from './assets/img/houses/house7lg.png';
-import House8Lg from './assets/img/houses/house8lg.png';
-import House9Lg from './assets/img/houses/house9lg.png';
-import House10Lg from './assets/img/houses/house10lg.png';
-import House11Lg from './assets/img/houses/house11lg.png';
-import House12Lg from './assets/img/houses/house12lg.png';
+
 
 // import apartments images
 import Apartment1 from './assets/img/apartments/a1.png';
@@ -52,7 +42,6 @@ import Agent8 from './assets/img/agents/agent8.png';
 import Agent9 from './assets/img/agents/agent9.png';
 import Agent10 from './assets/img/agents/agent10.png';
 import Agent11 from './assets/img/agents/agent11.png';
-import Agent12 from './assets/img/agents/agent12.png';
 
 export const housesData = [
   {
@@ -114,7 +103,7 @@ export const housesData = [
     bathrooms: '3',
     surface: '4200 sq ft',
     year: '2024',
-    price: '230 000 RWF',
+    price: '230,000RWF',
     agent: {
       image: Agent3,
       name: 'Jean Claude',
@@ -136,7 +125,7 @@ export const housesData = [
     bathrooms: '5',
     surface: '4200 sq ft',
     year: '2024',
-    price: '100 000 RWF',
+    price: '100,000RWF',
     agent: {
       image: Agent4,
       name: 'kenda Lora',
@@ -158,7 +147,7 @@ export const housesData = [
     bathrooms: '3',
     surface: '4200 sq ft',
     year: '2015',
-    price: '210 000RWF',
+    price: '210,000RWF',
     agent: {
       image: Agent5,
       name: 'Grover Robinson',
@@ -180,7 +169,7 @@ export const housesData = [
     bathrooms: '3',
     surface: '6200 sq ft',
     year: '2024',
-    price: '150 000RWF',
+    price: '150,000RWF',
     agent: {
       image: Agent6,
       name: 'Teta Aleen',
@@ -202,7 +191,7 @@ export const housesData = [
     bathrooms: '1',
     surface: '1200 sq ft',
     year: '2024',
-    price: '250 000RWF',
+    price: '250,000RWF',
     agent: {
       image: Agent7,
       name: 'Laenna Smith',
@@ -224,7 +213,7 @@ export const housesData = [
     bathrooms: '1',
     surface: '1000 sq ft',
     year: '2023',
-    price: '100 000RWF',
+    price: '100,000RWF',
     agent: {
       image: Agent8,
       name: 'Linda Smith',
@@ -246,7 +235,7 @@ export const housesData = [
     bathrooms: '6',
     surface: '1100 sq ft',
     year: '2024',
-    price: '200 000RWF',
+    price: '200,000RWF',
     agent: {
       image: Agent9,
       name: 'willy Smith',
@@ -268,7 +257,7 @@ export const housesData = [
     bathrooms: '5',
     surface: '1000 sq ft',
     year: '2024',
-    price: '150 000RWF',
+    price: '150,000RWF',
     agent: {
       image: Agent5,
       name: 'Aline umutoni',
@@ -290,7 +279,7 @@ export const housesData = [
     bathrooms: '5',
     surface: '1100 sq ft',
     year: '2024',
-    price: '200 000RWF',
+    price: '200,000RWF',
     agent: {
       image: Agent11,
       name: 'Deborah white',
@@ -312,7 +301,7 @@ export const housesData = [
     bathrooms: '3',
     surface: '1100 sq ft',
     year: '2024',
-    price: '90 000RWF',
+    price: '90,000RWF',
     agent: {
       image: Agent10,
       name: 'Esther Lee',
